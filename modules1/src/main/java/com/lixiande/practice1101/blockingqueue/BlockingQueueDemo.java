@@ -26,6 +26,7 @@ public class BlockingQueueDemo {
         blockingQueue.add("b");
         blockingQueue.add("c");
         System.out.println("Fly");
+        System.out.println("qiangqinag");
 
         // 检测队首元素
         System.out.println(blockingQueue.element());
